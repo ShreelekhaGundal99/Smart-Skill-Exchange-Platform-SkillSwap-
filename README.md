@@ -206,12 +206,14 @@ This project helped strengthen my understanding of:
 
 Computer Science Engineering Student
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/ShreelekhaGundal99
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://linkedin.com/in/shreelekha-gundal-82069a2aa
 
 ---
+## 🌐 Live Demo
 
+🔗 https://ShreelekhaGundal99.github.io/SkillSwap/
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
